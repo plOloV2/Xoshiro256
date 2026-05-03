@@ -1,6 +1,6 @@
 # Xoshiro256** PRNG C Library
 
-Lekka, statyczna biblioteka w języku C implementująca generator liczb pseudolosowych (PRNG) **Xoshiro256****. Jest to szybki i wydajny algorytm oparty na oryginalnej implementacji dostępnej na stronie *prng.di.unimi.it*.
+Lekka, statyczna biblioteka w języku C implementująca generator liczb pseudolosowych (PRNG) **Xoshiro256****. Jest to szybki i wydajny algorytm oparty na oryginalnej implementacji dostępnej na stronie *[prng.di.unimi.it](https://prng.di.unimi.it/xoshiro256starstar.c)*.
 
 ## Cechy projektu
 
