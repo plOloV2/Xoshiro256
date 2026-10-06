@@ -6,6 +6,5 @@ add_library(xoshiro256 STATIC src/Xoshiro256.c)
 target_include_directories(xoshiro256 PUBLIC $<BUILD_INTERFACE:${CMAKE_CURRENT_SOURCE_DIR}/inc>)
 
 target_compile_options(xoshiro256 PRIVATE 
-    -O2 
-    -march=generic
+    -O2
 )
